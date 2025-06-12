@@ -91,7 +91,7 @@ The Custom Event will have output pins corresponding to the delegate's parameter
 
 The C++ workflow is very similar. You get the subsystem, get the manager, and call the function, providing a lambda to handle the callback.
 ```c
-#include "GameJoltSubsystem.h"
+#include "UGameJoltSubsystem.h"
 #include "UGameJoltUserManager.h"
 
 void AMyPlayerController::AuthenticatePlayer(const FString& Username, const FString& UserToken)
