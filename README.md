@@ -2,6 +2,10 @@
 
 ---
 
+
+# Moved to [flushwhy/gamejolt](https://github.com/flushwhy/gamejolt)
+
+
 This is a plugin for [UE](https://www.unrealengine.com/) that allows you to use GameJolt in your project.
 
 This is my first Plugin for UE, and I am slowly developing it. After I get most of the coverage done I will put in on the
